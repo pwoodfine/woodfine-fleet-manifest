@@ -33,3 +33,10 @@ This manifest governs the procedure for integrating Woodfine macOS hardware into
 
 ## 4. SUPPORT PROTOCOL
 If the handshake fails (no internet connectivity when activated), verify the physical internet connection. If the physical connection is stable, contact internal Woodfine support (Jennifer) to verify the Hub's public IP address has not rotated.
+
+
+---
+
+*Copyright © 2026 Woodfine Management Corp. All rights reserved.*
+
+*Woodfine Capital Projects™, Woodfine Management Corp™, PointSav Digital Systems™, Totebox Orchestration™, and Totebox Archive™ are trademarks of Woodfine Capital Projects Inc., used in Canada, the United States, Latin America, and Europe. All other trademarks are the property of their respective owners.*

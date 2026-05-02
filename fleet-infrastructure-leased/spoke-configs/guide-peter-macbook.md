@@ -33,3 +33,10 @@ You require your unique cryptographic configuration file: `peter-mexico.conf`.
 
 ## 4. SUPPORT PROTOCOL
 If you experience connectivity drops, verify your local internet connection in Mexico first. If the local connection is stable but the tunnel fails, contact Jennifer on the internal support desk to verify the Woodfine Hub's routing status.
+
+
+---
+
+*Copyright © 2026 Woodfine Management Corp. All rights reserved.*
+
+*Woodfine Capital Projects™, Woodfine Management Corp™, PointSav Digital Systems™, Totebox Orchestration™, and Totebox Archive™ are trademarks of Woodfine Capital Projects Inc., used in Canada, the United States, Latin America, and Europe. All other trademarks are the property of their respective owners.*
