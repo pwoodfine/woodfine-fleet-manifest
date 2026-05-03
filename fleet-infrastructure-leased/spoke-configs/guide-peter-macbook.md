@@ -34,7 +34,6 @@ You require your unique cryptographic configuration file: `peter-mexico.conf`.
 ## 4. SUPPORT PROTOCOL
 If you experience connectivity drops, verify your local internet connection in Mexico first. If the local connection is stable but the tunnel fails, contact Jennifer on the internal support desk to verify the Woodfine Hub's routing status.
 
-
 ---
 
 *Copyright © 2026 Woodfine Management Corp. All rights reserved.*
